@@ -1,0 +1,13 @@
+All Rights Reserved
+
+This mod and all associated assets (including code, textures, models, and sounds) are the exclusive property of [Your Name/Mod Name].
+
+You may NOT:
+- Redistribute this mod on any other website or platform.
+- Modify, decompile, or reverse-engineer this mod.
+- Use any part of this mod in other mods or projects.
+
+However, you MAY:
+- Include this mod in public or private modpacks without needing prior permission, provided proper credit is given and the mod is not modified in any way.
+
+Contact for questions: https://discord.gg/uMb8FNHCbM
